@@ -42,6 +42,9 @@ public class MasterListFragment extends Fragment {
         void onImageSelected(int position);
     }
 
+
+
+
     //  (2) Override onAttach to make sure that the container activity has implemented the callback
 
 
